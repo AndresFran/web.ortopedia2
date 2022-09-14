@@ -2153,6 +2153,7 @@ fieldset:disabled a.btn {
     border-color: #117a8b; }
   .btn-info:focus, .btn-info.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(58, 176, 195, 0.5);
+
     box-shadow: 0 0 0 0.2rem rgba(58, 176, 195, 0.5); }
   .btn-info.disabled, .btn-info:disabled {
     color: #fff;
@@ -8039,12 +8040,12 @@ h1, h2, h3, h4, h5,
     border-radius: 50%;
     margin-right: 4px;
     background: rgba(0, 0, 0, 0.1);
-    background: #01d28e;
-    background: #edfff9; }
+    background: #435dd4;
+    background: #f3e2e2; }
     .social-media p a span {
-      color: #01d28e; }
+      color: #435dd4; }
     .social-media p a:hover {
-      background: #01d28e; }
+      background: #435dd4; }
       .social-media p a:hover span {
         color: #fff; }
 
@@ -8055,9 +8056,9 @@ h1, h2, h3, h4, h5,
     width: 44px;
     height: 44px;
     border-radius: 50%;
-    background: #edfff9; }
+    background: #f3e2e2; }
     .wrap .top-wrap .icon span {
-      color: #01d28e; }
+      color: #435dd4; }
   .wrap .top-wrap .text {
     padding-left: 15px;
     width: calc(100% - 44px); }
@@ -8071,12 +8072,12 @@ h1, h2, h3, h4, h5,
         color: rgba(0, 0, 0, 0.8); }
 
 .ftco-navbar-light {
-  background: #2d3e50 !important;
+  background: #1435c9 !important;
   z-index: 3;
   padding: 0; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #000000 !important;
+      background: #1435c9 !important;
       position: relative;
       top: 0;
       padding: 10px 15px; } }
@@ -8103,7 +8104,7 @@ h1, h2, h3, h4, h5,
       height: 100%;
       bottom: 0;
       left: 0;
-      background-color: #01d28e;
+      background-color: #fe0100;
       visibility: hidden;
       -webkit-transform: scaleX(0);
       -ms-transform: scaleX(0);
@@ -8116,7 +8117,7 @@ h1, h2, h3, h4, h5,
       color: #fff; }
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover:before {
         visibility: visible;
-        background-color: #6c5ce7;
+        background-color: #425dd5;
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); }
@@ -8167,13 +8168,13 @@ h1, h2, h3, h4, h5,
     color: #fff; }
     .ftco-navbar-light .navbar-nav > .nav-item.active > a:before {
       visibility: visible;
-      background-color: #01d28e;
+      background-color: #fe0100;
       -webkit-transform: scaleX(1);
       -ms-transform: scaleX(1);
       transform: scaleX(1); }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-        color: #01d28e; }
+        color: #fe0100; }
         .ftco-navbar-light .navbar-nav > .nav-item.active > a:before {
           display: none; } }
   .ftco-navbar-light .navbar-toggler {
@@ -8551,7 +8552,7 @@ h1, h2, h3, h4, h5,
   background: #6c5ce7 !important; }
 
 .bg-primary {
-  background: #01d28e !important; }
+  background: #1435c9 !important; }
 
 .btn {
   padding: 12px 16px;
@@ -8566,13 +8567,13 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #01d28e;
-    border: 1px solid #01d28e;
+    background: #1334cb;
+    border: 1px solid #fe0100;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 1px solid #01d28e;
+      border: 1px solid #fe0100;
       background: transparent;
-      color: #01d28e; }
+      color: #fe0100; }
     .btn.btn-primary.btn-outline-primary {
       border: 1px solid #01d28e;
       background: transparent;
@@ -8681,7 +8682,7 @@ h1, h2, h3, h4, h5,
   .services .d-block {
     margin-bottom: 20px; }
     .services .d-block:hover .icon {
-      background: #01d28e; }
+      background: #435dd4; }
       .services .d-block:hover .icon:after {
         bottom: -7px;
         height: 7px;
@@ -8714,7 +8715,7 @@ h1, h2, h3, h4, h5,
       right: 5px;
       content: '';
       height: 5px;
-      background: #6c5ce7;
+      background: #fe0100;
       border-radius: 0 0 3px 3px;
       -moz-transition: all 0.3s ease;
       -o-transition: all 0.3s ease;
@@ -8881,7 +8882,7 @@ h1, h2, h3, h4, h5,
   .ftco-appointment .desc .heading {
     font-size: 18px;
     font-weight: 700;
-    color: #01d28e;
+    color: #fe0100;
     text-transform: uppercase; }
   .ftco-appointment .desc .phone {
     font-size: 25px;
@@ -9144,9 +9145,9 @@ textarea.form-control {
     .footer .ftco-footer-widget ul li a span {
       color: rgba(255, 255, 255, 0.7); }
     .footer .ftco-footer-widget ul li a:hover {
-      color: #01d28e; }
+      color: #435dd4; }
       .footer .ftco-footer-widget ul li a:hover span {
-        color: #01d28e; }
+        color: #435dd4; }
   .footer .ftco-footer-widget .btn-primary {
     background: #fff !important;
     border: 2px solid #fff !important; }
@@ -9223,7 +9224,7 @@ textarea.form-control {
   font-size: 12px;
   display: block;
   font-weight: 700;
-  color: #01d28e;
+  color: #fe0100;
   text-transform: uppercase;
   letter-spacing: 1px; }
 
