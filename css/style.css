@@ -8646,12 +8646,12 @@ h1, h2, h3, h4, h5,
     font-size: 20px;
     line-height: 30px; }
     .tabulation .nav-pills .nav-item .nav-link span {
-      color: #01d28e;
+      color: #ff0101;
       font-size: 30px; }
     .tabulation .nav-pills .nav-item .nav-link.active {
       color: #fff;
-      background: #01d28e;
-      border: 1px solid #01d28e; }
+      background: #1329a0;
+      border: 1px solid #1329a0; }
       .tabulation .nav-pills .nav-item .nav-link.active span {
         color: #fff; }
 
