@@ -1,8 +1,6 @@
-Thank you for using our template!
-
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Página web con sistema de gestión de una Ortopedia.
+Venta y alquiler de insumos ortopédicos.
+Fabricación propia.
+Colores elegidos por su diseñador.
+Botones de enlace a WhatsApp y mail.
+Catálogo de productos descargable en pdf.
