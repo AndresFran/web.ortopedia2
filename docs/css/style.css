@@ -59,6 +59,8 @@ body {
   text-align: center;
   background-color: #fff; }
 
+
+  
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
@@ -9790,8 +9792,26 @@ textarea.form-control {
         margin-left: 10px;
     } */
 
-    .qr-img {
+.qr-img {
       
       width: 10%;
       
       }
+
+.my-button{
+  position: fixed;
+  left: 0px;
+  bottom: 180px;
+  width: 70px;
+  height: 70px;
+  z-index: 100
+}
+
+.my-button1{
+  position: fixed;
+  left: 0px;
+  bottom: 250px;
+  width: 70px;
+  height: 70px;
+  z-index: 100
+}
