@@ -9798,21 +9798,47 @@ textarea.form-control {
       
       }
 
-.my-button{
+.my-button2{
   position: fixed;
-  left: 0px;
+  right: 0px;
   bottom: 180px;
-  width: 70px;
-  height: 70px;
+  width: auto;
+  height: auto;
   z-index: 100
 }
 
 .my-button1{
   position: fixed;
-  left: 0px;
+  right: 0px;
   bottom: 250px;
-  width: 70px;
-  height: 70px;
+  width: auto;
+  height: auto;
   z-index: 100
 }
 
+.my-button{
+  position: fixed;
+  right: 0px;
+  bottom: 320px;
+  width: auto;
+  height: auto;
+  z-index: 100
+}
+
+.my-button4{
+  position: fixed;
+  left: 0px;
+  bottom: 250px;
+  width: auto;
+  height: auto;
+  z-index: 100
+}
+
+.my-button3{
+  position: fixed;
+  left: 0px;
+  bottom: 320px;
+  width: auto;
+  height: auto;
+  z-index: 100
+}
