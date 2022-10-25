@@ -9776,11 +9776,11 @@ textarea.form-control {
 
     video.bg-video {
       
-      width: 70%;
+      width: auto;
       margin-top: 5px;
       margin-left: 20px;
       margin-bottom: 10px;
-      border-radius: 5rem;
+      border-radius: 0rem;
       }
 
       /* .raya_2{
